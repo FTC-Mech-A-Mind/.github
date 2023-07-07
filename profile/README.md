@@ -4,4 +4,4 @@
 
 ## We'll also link important resources on this page
 
-### To get started, check out [this repo]() to view our software lessons from summer 2023
+### To get started, check out [this repo](https://github.com/ftc202300307/preseason-2023) to view our software lessons from summer 2023
